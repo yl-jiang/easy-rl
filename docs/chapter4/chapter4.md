@@ -78,7 +78,7 @@ $$
 $$
 从分布 $p_{\theta}(\tau)$ 采样一个轨迹 $\tau$，计算 $R(\tau)$ 的期望值，就是期望奖励（expected reward）。我们要最大化期望奖励。
 
-因为我们要让奖励越大越好，所以可以使用**梯度上升（gradient ascent）**来最大化期望奖励。要进行梯度上升，我们先要计算期望奖励 $\bar{R}_{\theta}$ 的梯度。我们对 $\bar{R}_{\theta}$ 做梯度运算
+因为我们要让奖励越大越好，所以可以使用** 梯度上升（gradient ascent）**来最大化期望奖励。要进行梯度上升，我们先要计算期望奖励 $\bar{R}_{\theta}$ 的梯度。我们对 $\bar{R}_{\theta}$ 做梯度运算
 $$
     \nabla \bar{R}_{\theta}=\sum_{\tau} R(\tau) \nabla p_{\theta}(\tau)
 $$
