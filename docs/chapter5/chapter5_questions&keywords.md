@@ -7,8 +7,9 @@
 - **异策略（off-policy）**：要学习的智能体和与环境交互的智能体不是同一个时对应的策略。
 
 - **重要性采样（important sampling）**：使用另外一种分布，来逼近所求分布的一种方法，在强化学习中通常和蒙特卡洛方法结合使用，公式如下：
+
 $$
-    \int f(x) p(x) \mathrm{d} x=\int f(x) \frac{p(x)}{q(x)} q(x) \mathrm{d} x=E_{x \sim q}[f(x){\frac{p(x)}{q(x)}}]=E_{x \sim p}[f(x)]
+\int f(x) p(x) \mathrm{d} x=\int f(x) \frac{p(x)}{q(x)} q(x) \mathrm{d} x=E_{x \sim q}[f(x){\frac{p(x)}{q(x)}}]=E_{x \sim p}[f(x)]
 $$
 我们在已知 $q$ 的分布后，可以使用上式计算出从 $p$ 这个分布采样 $x$ 代入 $f$ 以后得到的期望值。
 
