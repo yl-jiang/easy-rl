@@ -92,6 +92,7 @@ class Critic(nn.Module):
 
 ### PPO update
 定义一个update函数主要实现伪代码中的第六步和第七步：
+
 ```python
 def update(self):
     for _ in range(self.n_epochs):
