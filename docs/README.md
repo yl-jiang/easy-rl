@@ -14,30 +14,6 @@
 * 第 1 章和第 2 章根据[《强化学习纲要》](https://github.com/zhoubolei/introRL)整理而来；
 * 第 3 章和第 12 章根据[《世界冠军带你从零实践强化学习》](https://aistudio.baidu.com/aistudio/education/group/info/1335) 整理而来。
 
-## 纸质版
-
-<img src="https://raw.githubusercontent.com/datawhalechina/easy-rl/master/docs/res/mogu.png" width="300">
-
-推荐购买链接：[京东](https://item.jd.com/13075567.html) | [当当](http://product.dangdang.com/29374163.html) 
-
-<table border="0">
-  <tbody>
-    <tr align="center" >
-      <td>
-         <img width="120" height="120" src="https://raw.githubusercontent.com/datawhalechina/easy-rl/master/docs/res/qrcode_jingdong.jpg" alt="pic">
-        <br>
-        <p>推荐京东扫码购买</p>
-              </td>
-    <td>
-    <img width="120" height="120" src="https://raw.githubusercontent.com/datawhalechina/easy-rl/master/docs/res/qrcode_dangdang.png" alt="pic"><br>
-    <p>当当扫码购买</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-豆瓣评分：https://book.douban.com/subject/35781275/
 
 ℹ️ **勘误修订表**：https://datawhalechina.github.io/easy-rl/#/errata
 
@@ -53,11 +29,6 @@
 
 压缩版(推荐网速较差的读者使用，文件小，图片分辨率较低)：链接: https://pan.baidu.com/s/1mUECyMKDZp-z4-CGjFhdAw 提取码: tzds 
 
-## 纸质版和PDF版的区别
-
-PDF版本是全书初稿，人民邮电出版社的编辑老师们对初稿进行了反复修缮，最终诞生了纸质书籍，在此向人民邮电出版社的编辑老师的认真严谨表示衷心的感谢！（附：校对样稿）
-
-<center class="half"><img src="https://raw.githubusercontent.com/datawhalechina/easy-rl/master/docs/res/yanggao.png" width="680"></center>
 
 ## 内容导航
 
@@ -101,30 +72,6 @@ PDF版本是全书初稿，人民邮电出版社的编辑老师们对初稿进�
 * [蘑菇书开源组队学习活动](https://www.bilibili.com/video/BV1Ha41197Pg/?spm_id_from=333.999.0.0&vd_source=642fa389e9e78cff4881c038963ac312)
 * [蘑菇书开源学习与成长](https://www.bilibili.com/video/BV1xW4y1B72o/?spm_id_from=333.999.0.0&vd_source=642fa389e9e78cff4881c038963ac312)
 
-## 贡献者
-
-<table border="0">
-  <tbody>
-    <tr align="center" >
-      <td>
-         <a href="https://github.com/qiwang067"><img width="70" height="70" src="https://github.com/qiwang067.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/qiwang067">Qi Wang</a> 
-        <p>教程设计(第1~12章)<br> 上海交通大学博士生<br> 中国科学院大学硕士</p>
-      </td>
-      <td>
-         <a href="https://github.com/yyysjz1997"><img width="70" height="70" src="https://github.com/yyysjz1997.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/yyysjz1997">Yiyuan Yang</a> 
-        <p>习题设计&第13章 <br> 牛津大学博士生<br> 清华大学硕士</p>
-      </td>
-      <td>
-         <a href="https://github.com/JohnJim0816"><img width="70" height="70" src="https://github.com/JohnJim0816.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/JohnJim0816">John Jim</a>
-         <p>算法实战<br> 北京大学硕士</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 ## 引用信息
 
 ```
@@ -158,20 +105,7 @@ url = {https://github.com/datawhalechina/easy-rl}
 
 如果您需要转载该教程的内容，请注明出处：[https://github.com/datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)。
 
-## 致谢
 
-特别感谢 [@Sm1les](https://github.com/Sm1les)、[@LSGOMYP](https://github.com/LSGOMYP) 对本项目的帮助与支持。
-
-另外，十分感谢大家对于Easy-RL的关注。
-[![Stargazers repo roster for @datawhalechina/easy-rl](https://reporoster.com/stars/datawhalechina/easy-rl)](https://github.com/datawhalechina/easy-rl/stargazers)
-[![Forkers repo roster for @datawhalechina/easy-rl](https://reporoster.com/forks/datawhalechina/easy-rl)](https://github.com/datawhalechina/easy-rl/network/members)
-
-## 关注我们
-扫描下方二维码关注公众号：Datawhale，回复关键词“Easy-RL读者交流群”，即可加入“Easy-RL读者交流群”
-<div align=center><img src="https://raw.githubusercontent.com/datawhalechina/easy-rl/master/docs/res/qrcode.jpeg" width = "250" height = "270" alt="Datawhale是一个专注AI领域的开源组织，以“for the learner，和学习者一起成长”为愿景，构建对学习者最有价值的开源学习社区。关注我们，一起学习成长。"></div>
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
-
-## Star History
-[![Star History](https://api.star-history.com/svg?repos=datawhalechina/easy-rl)](https://star-history.com/#datawhalechina/easy-rl&Date)
